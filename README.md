@@ -13,4 +13,4 @@ An application that uses the Tkinter library to generate and save passwords achi
 
 ## Screenshots
 
-![App Screenshot](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/314929040_3185315071779703_1247945089855995443_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9q_0V--46NkAX8Ytg8-&_nc_oc=AQl7ZCpumGcXKyRmSDRWR0Qu9g9XzoI3uqLx113IXGB1onKLj042h9f_WJ_nGR-45Fk&_nc_ht=scontent-waw1-1.xx&oh=03_AdQHOnmCCybdBH7UwJqZXF9XbhC5gCOuXUlNF6kmRFvekA&oe=639EE085)
+![App Screenshot](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/315529998_730243121426476_1046834643625062629_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=v_vYgm4qnoEAX_KyxO1&_nc_ht=scontent-waw1-1.xx&oh=03_AdT11JIcYhWvm3bMH3iUCkl11KKwB9bOIeZrevcgynoUBQ&oe=639EE409)
