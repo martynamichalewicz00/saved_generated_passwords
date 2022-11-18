@@ -13,7 +13,7 @@ class password_generator:
 
     password = ''
 
-    def __init__(self, length = (3,10), upper_and_lower = None, num_and_let = None, special_sign = None):
+    def __init__(self, length, upper_and_lower = None, num_and_let = None, special_sign = None):
         self.length = length
         self.upper_and_lower = upper_and_lower
         self.num_and_let = num_and_let
@@ -21,7 +21,6 @@ class password_generator:
         self.create()
 
     def create(self):
-        self.length = random.randint(self.length[0],self.length[1])
         if (self.upper_and_lower):
             password_generator.password = password_generator.password.join(random.choices(string.ascii_letters, k=self.length))
         else:
