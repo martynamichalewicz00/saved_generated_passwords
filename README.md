@@ -5,7 +5,7 @@ An application that uses the Tkinter library to generate and save passwords achi
 
 ## Features
 
-- Select the length of the generated password.
+- Select the length of the password to generate.
 - Choice of whether the password should have special characters or numbers.
 - Choosing whether a password should consist of lowercase and uppercase letters.
 - Preview of previously saved passwords.
